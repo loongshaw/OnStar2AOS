@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>  
+    <account>  
+        <count>            
+            <name>record id</name>  
+            <id>1</id>  
+            <date>20150526</date>  
+            <periodofvalidity>3 month</periodofvalidity>  
+        </count>            
+                
+    </account>  
+</configuration>  
